@@ -1,3 +1,5 @@
 ### Database application with Flask (Pyhon)
 
-Construction as recommended in the course: https://materiaalit.github.io/tsoha-19/ (Helsinki University)
+The project will be done as is recommended in the course: https://materiaalit.github.io/tsoha-19/ (Helsinki University) 
+
+The project is in progress. 
